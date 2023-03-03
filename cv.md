@@ -6,8 +6,8 @@
 
 ## Contacts
 
-e-mail: sirius-ingensson@gmail.com
-phone: +46731297715
+e-mail: sirius-ingensson@gmail.com  
+phone: +46731297715  
 telegram: t.me/sirius_ingensson
 
 ---
@@ -52,8 +52,8 @@ function persistence(num) {
 
 Study projects at RS-School:
 
-- CV-markdown
-  markdown, git
+- CV-markdown  
+  markdown, git  
   https://github.com/sergey-ladorski/rsschool-cv
 
 ---
