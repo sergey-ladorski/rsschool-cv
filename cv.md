@@ -54,7 +54,7 @@ function persistence(num) {
 Study projects at RS-School:
 
 - CV-markdown  
-  markdown, git  
+  * * markdown, git  
   https://github.com/sergey-ladorski/rsschool-cv
 
 ---
